@@ -4,3 +4,6 @@ This repository contains code about the NHTSA - National Highway Traffic Safety 
 
 ## Link to App
 https://victoriakwamboka.shinyapps.io/nhtsa22/
+
+## First Glance
+![Oooops!](homepage.jpg)
