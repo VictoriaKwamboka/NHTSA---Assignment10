@@ -1,0 +1,51 @@
+state,count,statecode,Regions,pop_2021,crashes_per_100k
+Alabama,885,AL,South,"5,049,846",17.52528691
+Alaska,59,AK,South,"734,182",8.036154523
+Arizona,1063,AZ,West,"7,264,877",14.63204401
+Arkansas,631,AR,West,"3,028,122",20.83799794
+California,3983,CA,West,"39,142,991",10.17551265
+Colorado,638,CO,West,"5,811,297",10.97861631
+Connecticut,283,CT,North East,"3,623,355",7.810440876
+Delaware,132,DE,South,"1,004,807",13.13685116
+Florida,3451,FL,South,"21,828,069",15.80991887
+Georgia,1670,GA,South,"10,788,029",15.48012153
+Hawaii,94,HI,West,"1,447,154",6.495507734
+Idaho,244,ID,West,"1,904,314",12.81301298
+Illinois,1210,IL,Midwest,"12,686,469",9.537720858
+Indiana,863,IN,Midwest,"6,813,532",12.66597119
+Iowa,329,IA,Midwest,"3,197,689",10.28868036
+Kansas,381,KS,Midwest,"2,937,922",12.96834974
+Kentucky,734,KY,South,"4,506,589",16.28726294
+Louisiana,887,LA,South,"4,627,098",19.1696826
+Maine,135,ME,North East,"1,377,238",9.802227356
+Maryland,522,MD,South,"6,174,610",8.453975231
+Massachusetts,397,MA,North East,"6,989,690",5.679794097
+Michigan,1072,MI,Midwest,"10,037,504",10.67994593
+Minnesota,451,MN,Midwest,"5,711,471",7.896389564
+Mississippi,697,MS,South,"2,949,586",23.63043492
+Missouri,931,MO,Midwest,"6,169,823",15.08957388
+Montana,222,MT,West,"1,106,227",20.06821385
+Nebraska,192,NE,Midwest,"1,963,554",9.778187918
+Nevada,360,NV,West,"3,146,402",11.44164032
+New Hampshire,106,NH,North East,"1,387,505",7.63961211
+New Jersey,669,NJ,North East,"9,267,961",7.218416219
+New Mexico,427,NM,West,"2,116,677",20.17312986
+New York,1099,NY,North East,"19,857,492",5.534435064
+North Carolina,1535,NC,South,"10,565,885",14.52788858
+North Dakota,85,ND,Midwest,"777,934",10.92637679
+Ohio,1242,OH,Midwest,"11,764,342",10.55732654
+Oklahoma,681,OK,South,"3,991,225",17.06243071
+Oregon,552,OR,West,"4,256,301",12.9690076
+Pennsylvania,1153,PA,North East,"13,012,059",8.861011159
+Rhode Island,61,RI,North East,"1,096,985",5.560695907
+South Carolina,1112,SC,South,"5,193,266",21.41234437
+South Dakota,131,SD,Midwest,"896,164",14.61786012
+Tennessee,1229,TN,South,"6,968,351",17.63688425
+Texas,4068,TX,South,"29,558,864",13.76236922
+Utah,293,UT,West,"3,339,113",8.7747854
+Vermont,69,VT,North East,"646,972",10.66506742
+Virginia,906,VA,South,"8,657,365",10.465078
+Washington,603,WA,West,"7,740,745",7.789947867
+West Virginia,257,WV,South,"1,785,526",14.39351765
+Wisconsin,572,WI,Midwest,"5,880,101",9.727724065
+Wyoming,102,WY,West,"579,483",17.60189686
